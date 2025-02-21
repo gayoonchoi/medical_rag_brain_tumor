@@ -1,5 +1,4 @@
-# 📝 BRAG Report
-# 🧠 뇌종양 분석 및 RAG를 활용한 자동 의학 소견서 생성 
+# 🧠 뇌종양 분석 및 RAG를 활용한 자동 의학 소견서 생성 (BRAG Report)
 ![image](https://github.com/user-attachments/assets/d3b27a1b-bbe4-4b68-8b69-d1ae21581d3d)
 
 ## 📅 진행 기간
