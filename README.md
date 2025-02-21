@@ -47,8 +47,7 @@
 * 육하원칙(누가, 무엇을, 언제, 어디서, 왜, 어떻게)에 기반한 모델 설계
 
 * Llama3 8B 및 Gemma2 9B 모델을 활용해 텍스트 요약 및 자동화 파이프라인 구축
-  
-
+<br>  
 2. MRI 이미지 Segmentation 작업
 
 * 3D U-Net 및 SwinUnetR 모델 적용
