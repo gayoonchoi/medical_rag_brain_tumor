@@ -99,6 +99,6 @@
 
 이메일: cgygy@naver.com
 
-## 데모 
+## 🌟 데모 
 https://github.com/user-attachments/assets/4831aa1c-cd4e-4905-820a-56040099c75d
 
