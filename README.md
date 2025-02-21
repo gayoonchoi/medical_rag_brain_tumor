@@ -55,14 +55,13 @@
 * FLAIR 데이터를 활용해 종양의 위치 및 크기 분석
 
 * AAL(AAL atlas) 데이터를 통해 뇌 영역별 종양 위치 출력
-  
-
+<br>
 3. 데이터 검색 및 요약 시스템 구현
 
 * RAG 및 LLM(Ollama의 Gemma2 모델) 기술 활용
 
 * PostgreSQL + PGVector를 사용해 고속 검색 및 인덱싱 성능 강화
-  
+<br>
 
 ## 🚀 결과
 
