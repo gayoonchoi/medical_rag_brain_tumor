@@ -1,6 +1,7 @@
 # Brain Tumor - LLM + RAG Report
 # 🧠 뇌종양 분석 및 RAG를 활용한 자동 의학 소견서 생성 
-![image](https://github.com/user-attachments/assets/4510bb3e-f7ff-4a2c-af6d-ca5b9474f1aa)
+![image](https://github.com/user-attachments/assets/739881a2-5cb2-41c5-b344-c139825337e9)
+![image](https://github.com/user-attachments/assets/3ae8ded1-584e-4203-93b6-83394f1f08e9)
 
 ## 📅 진행 기간
 
